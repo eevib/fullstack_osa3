@@ -1,0 +1,5 @@
+GET http://localhost:3001/api/persons/:id
+
+{
+    "id:" "61a9c456bf11074d66dd7af3"
+}
